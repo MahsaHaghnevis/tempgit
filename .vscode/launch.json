@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mahsa/Documents/GitHub/tempgit",
+      "program": "/Users/mahsa/Documents/GitHub/tempgit/build/Debug/outDebug"
+    }
+  ]
+}
